@@ -9,4 +9,5 @@ The integration, and conexion of all these developped methods requires of a comp
 
 # How to visualize the MOT architecture documentation and schemes
 -Download .zip folder
+
 -Open "index" file
